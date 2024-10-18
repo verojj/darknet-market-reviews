@@ -70,10 +70,6 @@ Subscribe to our repository to keep up with the latest news and trends in the da
 
 <a href="http://6uln4tf4k2k2njakue4oc6o74hl6irwqxvb6ykwond5nuzuzheb64uad.onion"><img src="/assets/loccvilsand.webp" width="600"><a>
 
-- [Black Pyramid - Market](@black pyramid@) - `Click on the image to go to the website.`
-  - **Accepted Cryptocurrency:** Bitcoin, Monero
-
-<a href="@black pyramid@"><img src="/assets/boalovi.webp" width="600"><a>
 
 - [Vortex - Market](http://dgxq3rvyv3z7o4inrpy7ksudoe6t33ijyhljlacu6if2l44nqwk2yuyd.onion) - `Click on the image to go to the website.`
   - **Accepted Cryptocurrency:** Bitcoin, Monero
@@ -90,10 +86,6 @@ Subscribe to our repository to keep up with the latest news and trends in the da
 
 <a href="http://xhfwpp3ptlw7onwjetxa2jjzucqjs632lwjmdydcrefevpkzxxqgxvqd.onion"><img src="/assets/fectpale.webp" width="600"><a>
 
-- [Fish - Market](@go fish@) - `Click on the image to go to the website.`
-  - **Accepted Cryptocurrency:** Bitcoin, Monero
-
-<a href="@go fish@"><img src="/assets/cuikalsi.webp" width="600"><a>
 
 - [Kerberos - Market](http://foj62eijfchhbz33skhggkb3o5yzw3xtl2ytmap2soudonykliepvwid.onion) - `Click on the image to go to the website.`
   - **Accepted Cryptocurrency:** Bitcoin, Monero
@@ -110,58 +102,9 @@ Subscribe to our repository to keep up with the latest news and trends in the da
 
 <a href="http://irafvrr4wvlnefdvynjnhbmh46zwarvzu7ofxpxna6qio37a62ftsvid.onion"><img src="/assets/loycontio.webp" width="600"><a>
 
-- [Mega - Market (Russia)](@mega market@) - `Click on the image to go to the website.`
-  - **Accepted Cryptocurrency:** Bitcoin, Monero, USDT20
 
-<a href="@mega market@"><img src="/assets/agmopot.webp" width="600"><a>
-
-## Stores
-
-- [Smokers Co](@smokersco@) - `Click on the image to go to the website.`
-  - **Accepted Cryptocurrency:** Monero
-
-<a href="@smokersco@"><img src="/assets/winkbenee.webp" width="600"><a>
-
-- [Gamma Goblin](@gammagoblin@) - `Click on the image to go to the website.`
-  - **Accepted Cryptocurrency:** Bitcoin
-
-<a href="@gammagoblin@"><img src="/assets/handfetu.webp" width="600"><a>
-
-- [The - Spitzenkörper](@the spitzenkorper@) - `Click on the image to go to the website.`
-  - **Accepted Cryptocurrency:** Bitcoin, Monero
-
-<a href="@the spitzenkorper@"><img src="/assets/resjadbffec.webp" width="600"><a>
-
-- [Tribe - Seuss](@tribe seuss@) - `Click on the image to go to the website.`
-  - **Accepted Cryptocurrency:** Bitcoin, Monero
-
-<a href="@tribe seuss@"><img src="/assets/artera.webp" width="600"><a>
-
-### Fraud Stores
-
-- [Biden Cash](@bidencash@) - `Click on the image to go to the website.`
-  - **Accepted Cryptocurrency:** Bitcoin
-
-<a href="@bidencash@"><img src="/assets/olrondest.webp" width="600"><a>
-
-- [Brians Club](@briansclub@) - `Click on the image to go to the website.`
-  - **Accepted Cryptocurrency:** Bitcoin, Monero, Litecoin, Dash, USDT20
-
-<a href="@briansclub@"><img src="/assets/renacam.webp" width="600"><a>
 
 ## Crypto Exchanges
-
-- [Exch Exchange](@exch exchange@) - `Click on the image to go to the website.`
-
-<a href="@exch exchange@"><img src="/assets/kingdefki.webp" width="600"><a>
-
-- [Swp.cx](@swp.cx@) - `Click on the image to go to the website.`
-
-<a href="@swp.cx@"><img src="/assets/minslarab.webp" width="600"><a>
-
-- [Xchange.me](@xchange.me@) - `Click on the image to go to the website.`
-
-<a href="@xchange.me@"><img src="/assets/ymnara.webp" width="600"><a>
 
 - [Infinity Exchanger](http://p7nplvfgb4yxovywiwtq74tjjirel7wx6vigthhsamac4gmjjiqfvzid.onion) - `Click on the image to go to the website.`
 
