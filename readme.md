@@ -97,11 +97,6 @@ Subscribe to our repository to keep up with the latest news and trends in the da
 
 <a href="http://or2cloqe6dbolh76lthsc476uznzkp7bkabzgr5vs5paqqxi4obbhcyd.onion"><img src="/assets/tauteoti.webp" width="600"><a>
 
-- [Flugsvamp - 4.0 (Sweden)](flugsvamp 4.0) - `Click on the image to go to the website.`
-  - **Accepted Cryptocurrency:** Bitcoin, Monero
-
-<a href="http://irafvrr4wvlnefdvynjnhbmh46zwarvzu7ofxpxna6qio37a62ftsvid.onion"><img src="/assets/loycontio.webp" width="600"><a>
-
 
 
 ## Crypto Exchanges
